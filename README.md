@@ -15,7 +15,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 
 ---
@@ -24,7 +24,7 @@
 I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tennessee.
 - :telescope: I’m currently a Software Engineer student at <a href="https://www.thinkful.com">Thinkful</a> 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring the vast majority of coding languages!
 
 - :zap: In my free time, I love to play my piano the draw. I also like working on one of my coding projects.
 

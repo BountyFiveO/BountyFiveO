@@ -22,7 +22,7 @@
 
 ### A Little About Me :
 I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tennessee.
-- :telescope: I’m currently a Software Engineer student at <a href="https://www.thinkful.com">Thinkful</a> 
+- :telescope: I'm a recent graduate of the Full-Stack Software Engineer Immersion Program at <a href="https://www.thinkful.com">Thinkful</a> 
 
 - :seedling: Exploring the vast majority of coding languages!
 
